@@ -1,0 +1,32 @@
+1. membuat database
+2.membuat struktur project
+3.membuat koneksi antara database dan sistem
+4.membuat antarmuka web
+5.membuat fungsi CRUD (Create, Read,Update ,Delete) sesuai yang di butuhkan kasus
+6. pengecekan sistem
+7.selesai
+
+1. pastikan semua button atau link sesuai fungsi
+2. pastikan tidak terjadi error saat web di jalankan
+3. pastikan data sudah tersimpan dengan baik dan sesuai pada database.
+
+ada 2 cara untuk melakukan backup pada:
+1. melalui comand line dengan mengetikan perintah " mysqldump -u NAMAUSER -p NAMADATABASE > dbexport.sql "
+2. melalui admin panel seperti phpmyadmin lalu pilih database, setelah itu buka tab export lalu klik go.
+
+dengan menambahkan fitur login yang passwordnya tersimpan di database setelah melalui proses enkripsi
+
+1.Varchar
+2.integer
+3.smallint
+4.text
+5.date
+6.timestamp
+7.float
+8.char
+9.blob
+
+https://forms.gle/rSFFrx299hZXhY3K9
+
+
+https://forms.gle/rSFFrx299hZXhY3K9
